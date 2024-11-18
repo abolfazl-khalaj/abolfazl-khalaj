@@ -16,7 +16,7 @@ const responsive = {
       ],
       slogan : [
         'The expertise and quality of my code shows that I am worthy of working with you
-        , not work history'
+        , not work history 🤷‍♂️'
       ]
   } 
 }
