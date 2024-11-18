@@ -25,7 +25,7 @@ const responsive = {
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-    <a href="https://tailwindcss.com/resources" target="_blank" rel="noreferrer"><img src="https://github.com/abolfazl-khalaj/abolfazl-khalaj/blob/main/Tailwind_CSS_Logo.svg.png" width="36" height="36" alt="Redux" /></a>
+    <a href="https://tailwindcss.com/resources" target="_blank" rel="noreferrer"><img src="https://github.com/abolfazl-khalaj/abolfazl-khalaj/blob/main/Tailwind_CSS_Logo.svg.png" width="50" height="36" alt="tailwind" /></a>
 </p>
 
 ### Social
