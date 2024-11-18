@@ -9,12 +9,14 @@ const responsive = {
       age : ' 1385 / 4 / 1 ' ,
       job : 'front end developer' ,
       softArts : [
-      'clean code ' ,
-      'debug code ',
-      'strong teamwork ' ,
-      'on time ' 
-    
-
+        'clean code ' ,
+        'debug code ',
+        'strong teamwork ' ,
+        'on time ' 
+      ],
+      slogan : [
+        'The expertise and quality of my code shows that I am worthy of working with you
+        , not work history'
       ]
   } 
 }
