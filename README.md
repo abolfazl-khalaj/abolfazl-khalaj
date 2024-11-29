@@ -28,4 +28,5 @@ const responsive = {
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
     <a href="https://tailwindcss.com/resources" target="_blank" rel="noreferrer"><img src="https://github.com/abolfazl-khalaj/abolfazl-khalaj/blob/main/Tailwind_CSS_Logo.svg.png" width="50" height="36" alt="tailwind" /></a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/abolfazl-khalaj/abolfazl-khalaj/blob/main/images%20(1).png" width="50" height="36" alt="tailwind" /></a>
 </p>
