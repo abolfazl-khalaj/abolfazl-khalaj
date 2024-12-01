@@ -9,7 +9,7 @@ const responsive = {
       age : ' 1385 / 4 / 1 ' ,
       job : 'front end developer' ,
       softArts : [
-        'web back' ,
+        'web pack' ,
         'clean code ' ,
         'debug code ',
         'strong teamwork ' ,
