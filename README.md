@@ -7,7 +7,7 @@ const responsive = {
       firstName : 'abolfazl' ,
       lastName : 'hasan zade khalaj' ,
       age : ' 1385 / 4 / 1 ' ,
-      job : 'front end developer' ,
+      job : 'front end developer  |  backend next js' ,
       softArts : [
         'clean code ' ,
         'debug code ',
