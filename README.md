@@ -2,7 +2,7 @@
 
 ```javascript
 const responsive = {
-  status : 201 ,
+  status : 200 ,
   data : {
       firstName : 'abolfazl' ,
       lastName : 'hasan zade khalaj' ,
