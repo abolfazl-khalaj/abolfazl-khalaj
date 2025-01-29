@@ -1,29 +1,16 @@
-# hello my dear friend ... ❤️🙏
+# وقت بخیر .. ❤️🙏
+ابوالفضل حسن زاده خلج هستم
+<br/>
+توسعه دهنده فرانت‌اند 
+<br/>
+حدود ۱ سال هست در این زمینه فعالیت دارم 
+<br/>
+به دلیل کمبود سابقه کار ; مهارت و دانش‌م رو با نمونه کار
+و پروژه ها به نمایش میگذارم ...
 
-```javascript
-const responsive = {
-  status : 200 ,
-  data : {
-      firstName : 'abolfazl' ,
-      lastName : 'hasan zade khalaj' ,
-      age : ' 1385 / 4 / 1 ' ,
-      job : 'front end developer  |  backend next js' ,
-      softArts : [
-        'clean code ' ,
-        'debug code ',
-        'strong teamwork ' ,
-        'on time ' 
-      ],
-      slogan : [
-        'The expertise and quality of my code shows that I am worthy of working with you
-        , not work history 🤷‍♂️'
-      ]
-  } 
-}
-```
-### Skills
+<br/><br/><br/><br/><br/>
 
-<p align="left">
+<p align="right">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
